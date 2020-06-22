@@ -1,0 +1,26 @@
+.report-container
+{
+    display: block;
+    margin-top: 70px;
+    margin-right: 90px;
+    margin-left:70px;
+    margin-bottom: 70px;
+    flex-direction: column;
+    width: 380px;
+}
+.reportdiv{
+    width:520px;
+    background: rgb(255, 255, 255);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    border: groove;
+    border-color: red;
+}
+.tozihat-khata{
+    background-color: rgba($color: #ffffff, $alpha: 0.7);
+    text-align:right;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding:20px;
+}
